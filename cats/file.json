@@ -1,0 +1,18 @@
+[
+  {
+  "path": "images/cat1.jpg",
+  "annotation": [{"label": "cat", "coordinates": {"height": 1287, "width": 1226, "x": 1561, "y": 1952}}]
+ },
+ {"path": "images/cat2.jpg",
+ "annotation": [{"label": "cat", "coordinates": {"height": 2049, "width": 2077, "x": 2212, "y": 1379}}]
+ },
+ {"path": "images/cat3.jpg",
+ "annotation": [{"label": "cat", "coordinates": {"height": 1871, "width": 1892, "x": 1890, "y": 1121}}]
+ },
+ {"path": "images/cat4.jpg",
+ "annotation": [{"label": "cat", "coordinates": {"height": 1344, "width": 1427, "x": 2601, "y": 814}}]
+ },
+ {"path": "images/cat5.jpg",
+ "annotation": [{"label": "cat", "coordinates": {"height": 2716, "width": 2728, "x": 4429, "y": 1802}}]
+}
+]

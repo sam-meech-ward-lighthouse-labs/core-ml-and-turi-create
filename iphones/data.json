@@ -1,0 +1,10 @@
+[
+  {
+    "path": "images/iphone1.jpg",
+    "type": "rectangle",
+    "annotation":{  
+      "label":"iphone",
+      "coordinates": {"height": 354, "width": 183, "x": 214, "y": 209}
+    }
+  }
+]
